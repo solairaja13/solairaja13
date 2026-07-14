@@ -88,7 +88,7 @@ https://solairaja13.github.io/Raja_Portfolio/html/
 
 # 🏆 GitHub Activity Graph
 
-[![Raja's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=solairaja13&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Raja's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=solairaja13&theme=tokyo-night&hide_border=true)](https://github.com/solairaja13)
 
 ---
 
